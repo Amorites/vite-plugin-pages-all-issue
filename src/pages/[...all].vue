@@ -1,5 +1,5 @@
 <template>
   <div>
-    Not Found
+    Not Found from pages/[...all.vue]
   </div>
 </template>
